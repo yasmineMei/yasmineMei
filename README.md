@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, je suis YasmineMei</h1>
-<h3 align="center">Une développeuse frontend passionnée d’Inde</h3>
+<h3 align="center">Developpeuse FullStack & Mobile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yasminemei&label=Profile%20views&color=0e75b6&style=flat » alt="yasminemei » /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/ » target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge » alt=" » /></a> </p>
 
-- 🔭 Je suis actuellement je travaille sur **Topeci**
+- 🔭 Je travaille actuellement chez **Topeci**
 
 - 🌱 J’apprends actuellement **Backend, Sécurité, Sciences de données**
 
-- 👯 Je cherche à collaborer sur **Eniazou Medical System**
+- 👯 J'ai collaborée sur le projet **Eniazou Medical System**
 
 - 📫 Comment me joindre **meiteyasmine90@gmail.com**
 
