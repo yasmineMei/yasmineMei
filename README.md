@@ -16,34 +16,7 @@
 
 ## 🚀 À propos de moi
 
-```typescript
-const yasmine = {
-    role: "FullStack & Mobile Developer",
-    company: "Topeci",
-    location: "🌍",
-    currentFocus: ["Backend Development", "Cybersécurité", "Data Science"],
-    collaborations: ["Eniazou Medical System"],
-    languages: ["JavaScript", "TypeScript", "Python", "Java", "C++", "C#"],
-    askMeAbout: ["Web Dev", "Mobile Dev", "Tech", "Innovation"],
-    technologies: {
-        frontend: {
-            js: ["React", "Vue.js", "React Native"],
-            css: ["Tailwind CSS", "CSS3", "HTML5"]
-        },
-        backend: {
-            js: ["Node.js", "Express"],
-            python: ["Django"]
-        },
-        mobile: ["Flutter", "React Native", "Android"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
-        tools: ["Git", "Postman", "Linux"]
-    },
-    architecture: ["SPA", "REST API", "Microservices"],
-    currentlyLearning: "Backend avancé, sécurité des applications & data science",
-    funFact: "Je transforme le café en code ! ☕️ → 💻"
-};
-```
-
+BSc in Software Engineering and Information Systems | Full-Stack Web & Mobile Developer
 ---
 
 ## 💼 Expérience Professionnelle
